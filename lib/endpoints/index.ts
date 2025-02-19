@@ -11,7 +11,6 @@ export * from "./users-accounts/action";
 
 // Upload file
 export * from "./upload-file/query";
-export * from "./upload-file/action";
 
 // Admin
 export * from "./admin/query";

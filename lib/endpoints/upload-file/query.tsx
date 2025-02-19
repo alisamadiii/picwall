@@ -1,3 +1,5 @@
+"use client";
+
 import { generateReactHelpers } from "@uploadthing/react";
 import { toast } from "sonner";
 import type { ClientUploadedFileData } from "uploadthing/types";
